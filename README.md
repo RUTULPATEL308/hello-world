@@ -1,1 +1,3 @@
 # hello-world
+
+In Web Design, I would like to develop the skills to create visually appealing, user-friendly, and responsive websites that provide a seamless experience across all devices. My goal is to gain a strong understanding of design principles, HTML, CSS, and modern frameworks so I can build websites that are not only functional but also engaging and accessible. Ultimately, I want to combine creativity with technical knowledge to design websites that effectively communicate ideas and meet user needs.
